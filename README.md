@@ -46,12 +46,12 @@ pickup times. The courier operation manager has sent you a following
 message:
 
 >I would like understand what is the **median pickup time** for each
->restaurant between certain hours (e.g 15 - 16). The data set of
+>restaurant between certain hours (e.g. 15-16). The data set of
 >pickup times has been collected from Helsinki between 7.1. -
 >13.1.2019.
 >
->- [summer2019.wolt.com/Helsinki/locations.csv](http://summer2019.wolt.com/Helsinki/locations.csv)
->- [summer2019.wolt.com/Helsinki/pickup_times.csv](http://summer2019.wolt.com/Helsinki/pickup_times.csv)
+>- [locations.csv](http://summer2019.wolt.com/Helsinki/locations.csv)
+>- [pickup_times.csv](http://summer2019.wolt.com/Helsinki/pickup_times.csv)
 >
 >The first file contains all pickup locations (restaurants) in Helsinki 
 >and the second one all pickup times from that week.
@@ -65,7 +65,7 @@ message:
 >
 `$ median_times Helsinki 07-01-19 19-20 mediantimes.csv`
 >This command would calculate medians of pickup times for all locations
-(in Helsinki) between 19 - 20 on Monday 7.1 and store times to a CSV
+(in Helsinki) between 19-20 on Monday 7.1 and store times to a CSV
 file (example below).
 >
 ```
@@ -102,7 +102,7 @@ line application, then here is my idea about that one.
     between certain hours (without minutes). So there is no need to
     handle exact timestamps in this first MVP.
 
-## Consider also following:
+## Consider also following
 
 -   We need to be able to test your program. So please provide good
     instructions how to get everything running smoothly.
