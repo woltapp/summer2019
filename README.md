@@ -1,4 +1,4 @@
-#Wolt Coding Task 2019 - *"Pickup times"*
+# Wolt Coding Task 2019 - *"Pickup times"*
 
 This coding task is meant for those aspiring engineers who are applying
 for Wolt's Engineering Internships in 2019. Optionally you can send us a
@@ -81,7 +81,7 @@ line application, then here is my idea about that one.
 
 ![UI example](http://summer2019.wolt.com/helsinkimap.png "Pickup times UI example")
 
-##Practical things
+## Practical things
 
 -   You can use **any programming language and 3rd party libraries you
     want**. However, we will really appreciate if you can write your
@@ -102,7 +102,7 @@ line application, then here is my idea about that one.
     between certain hours (without minutes). So there is no need to
     handle exact timestamps in this first MVP.
 
-##Consider also following:
+## Consider also following:
 
 -   We need to be able to test your program. So please provide good
     instructions how to get everything running smoothly.
@@ -116,11 +116,11 @@ line application, then here is my idea about that one.
 If you have any questions about the task, don't hesitate to contact our
 Product Recruitment Manager at <laura@wolt.com>
 
-##One final disclaimer
+## One final disclaimer
 
 The data in this task **is not real** - coordinates do not point to real
 restaurants and pickup times have been fabricated. If you want to see
 how our system performs in real-life, impress us with your solution and
 come work with us!
 
-###Happy coding!
+### Happy coding!
