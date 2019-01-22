@@ -89,7 +89,7 @@ line application, then here is my idea about that one.
     used by Wolt).
     
 -   When you are ready, leave us an application
-    [here](https://hire.lever.co/jobs/internal/527274e5-f0ab-4ed7-842b-5c61cb137529)
+    [here](https://jobs.lever.co/wolt/527274e5-f0ab-4ed7-842b-5c61cb137529)
     accompanied by your solution (stored in a GitHub repository or if
     in other format, send your code to laura\@wolt.com)
     
