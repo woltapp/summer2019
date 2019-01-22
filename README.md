@@ -5,7 +5,7 @@ for Wolt's Engineering Internships in 2019. Optionally you can send us a
 link to your Github profile (containing existing projects) or any
 example of your code in any format of your preference, and skip this
 exercise altogether. Find the details to apply
-[here](https://hire.lever.co/jobs/internal/527274e5-f0ab-4ed7-842b-5c61cb137529),
+[here](https://jobs.lever.co/wolt/527274e5-f0ab-4ed7-842b-5c61cb137529),
 deadline to apply is 17.2.2019.
 
 ---
